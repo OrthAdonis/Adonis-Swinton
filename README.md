@@ -2,9 +2,6 @@
 
 <h2>👨‍💻 Information technology:</h2>
 
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [New project]
-
 <h2>Certifications</h2>
 
 Google Cybersecurity Professional Certificate
